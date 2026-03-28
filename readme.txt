@@ -1,15 +1,23 @@
-🌐 Portfolio Website — Nihal Shetty
+Portfolio — Nihal Shetty
+About
 
-📌 Overview
-This is my personal portfolio website showcasing my skills, projects, and experience as a software developer. The goal of this project is to create a clean, responsive, and professional platform to present my work and technical abilities.
+This is my personal portfolio website. It showcases my projects, skills, and basic information about me as a developer.
 
----
+Features
+Responsive design
+Projects section
+Skills section
+Contact information
+Tech Stack
+HTML
+CSS
+JavaScript
+How to Run
+Clone the repository
+Open the project folder
+Run the index.html file in your browser
+Contact
+Email: nihalnshetty24@gmail.com
 
-👨‍💻 About Me
-Hi, I’m **Nihal Shetty**, a passionate software developer with an interest in building scalable web applications and solving real-world problems using technology.
-
-- 🎓 Student  
-- 💻 Focus: Software Development, Data Structures & Algorithms  
-- 🚀 Interested in Full Stack Development  
-
+Built by Nihal Shetty
 ---
